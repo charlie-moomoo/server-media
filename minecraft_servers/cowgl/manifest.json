@@ -1,0 +1,35 @@
+{
+  "server_name": "cowgl",
+  "nice_name": "牛牛的草原",
+  "direct_ip": "cowgl.gq",
+  "server_wildcards": [
+    "%.cowgl.gq"
+  ],
+  "supported_languages": [
+     "zh"
+  ],
+  "social": {
+    "web": "https://cowgl.gq",
+    "twitter": "CowGrassland",
+    "discord": "https://discord.gg/WY3pFDtFrx"
+  },
+  "gamemodes": {
+    "tntrun": {
+      "name": "TNTRun", 
+      "color": "#FF0000",
+      "command": "/tntrun",
+      "versions": "1.11<*"
+    }
+  },
+  "discord": {
+    "server_id": 1038987563052044380,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+     "primary": "#ff00a7"
+  }, 
+  "location": {
+     "country": "Taiwan",
+     "country_code": "TW"
+  }
+}
